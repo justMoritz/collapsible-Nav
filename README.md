@@ -2,6 +2,7 @@
 Javascript and CSS library to easily make a collapsible nav.
 
 _Might require bootstrap in your project._
+_Adapted from https://codepen.io/timgomm/_
 
 ## Extremely light weight and adaptable Markup
 
