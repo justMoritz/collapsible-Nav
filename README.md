@@ -8,10 +8,10 @@ _Adapted from https://codepen.io/timgomm/_
 
 ```  
   // single wrapper for everything
-  <div class="your-classname-here">                    // optionally pass .navbar-noflex to override flex-blox
+  <div class="your-classname-here">                 // optionally pass .navbar-noflex to override flex-blox
 
     // Markup for the logo
-    <a href="…" class="site-logo">                   // don't forget the .site-logo class
+    <a href="…" class="site-logo">                  // don't forget the .site-logo class
       <img, whatever you want … />
     </a>
 
