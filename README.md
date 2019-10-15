@@ -1,4 +1,4 @@
-# collapsible-Nav
+# collapsibleNavJs
 Javascript and CSS library to easily make a collapsible nav.
 
 _Might require bootstrap in your project._
